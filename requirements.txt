@@ -1,0 +1,7 @@
+# Project related packages
+numpy
+pandas
+
+# Misc packages
+kaggle
+loguru
